@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>openart-image_7ivWf2Bh_1734842765070_raw.jpg</filename>
+	<path>/Users/isaac/PycharmProjects/ASLInterpreter/Tensorflow/workspace/images/collectedimages/hello/openart-image_7ivWf2Bh_1734842765070_raw.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>204</ymin>
+			<xmax>423</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

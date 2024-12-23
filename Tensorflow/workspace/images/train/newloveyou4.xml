@@ -1,0 +1,26 @@
+<annotation>
+	<folder>loveyou2</folder>
+	<filename>newloveyou4.jpeg</filename>
+	<path>/Users/isaac/PycharmProjects/ASLInterpreter/Tensorflow/workspace/images/collectedimages/loveyou2/newloveyou4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>908</width>
+		<height>1044</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loveyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>192</ymin>
+			<xmax>757</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+</annotation>

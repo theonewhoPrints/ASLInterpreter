@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello2</folder>
+	<filename>newhello4.jpeg</filename>
+	<path>/Users/isaac/PycharmProjects/ASLInterpreter/Tensorflow/workspace/images/collectedimages/hello2/newhello4.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>65</ymin>
+			<xmax>899</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+</annotation>

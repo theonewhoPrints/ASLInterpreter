@@ -1,0 +1,26 @@
+<annotation>
+	<folder>joke</folder>
+	<filename>joke1.jpg</filename>
+	<path>/Users/isaac/PycharmProjects/ASLInterpreter/Tensorflow/workspace/images/collectedimages/joke/joke1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1238</width>
+		<height>1244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>645</ymin>
+			<xmax>758</xmax>
+			<ymax>1098</ymax>
+		</bndbox>
+	</object>
+</annotation>
